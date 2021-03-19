@@ -76,7 +76,7 @@ ml1m
 
 We use the flag '-model_type' to specify the model used, which has to be chosen from the following models: ['bpr','fm','trasne','transh','transr','cfkg','cke','cofm','transup','jtransup'].
 
-Specifically, ['bpr','fm','transup'] is for item recommendation. 'transup' is our proposed **TUP**. ['trasne','trasnh','trasnr'] is for kg representation. ['cfkg','cke','cofm','jtransup'] is for item recommendation. 'jtransup' is our proposed **KTUP**.
+Specifically, ['bprmf','fm','transup'] is for item recommendation. 'transup' is our proposed **TUP**. ['transe','transh','transr'] is for kg representation. ['cfkg','cke','cofm','jtransup'] is for item recommendation. 'jtransup' is our proposed **KTUP**.
 
 ### Model Specific Flags
 
